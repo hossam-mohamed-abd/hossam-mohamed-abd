@@ -107,8 +107,10 @@
 
 ---
 
+# 📈 Activity Graph
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=hossam-mohamed-abd&icon=0&color=1" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hossam-mohamed-abd&theme=radical" />
 </p>
+
 
 <!-- Proudly created & enhanced with GPRM + manual optimizations -->
