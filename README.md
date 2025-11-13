@@ -102,8 +102,9 @@
 
 # 🔝 Top Contributed Repo  
 <p align="center">
-  <img src="https://profile-counter.glitch.me/hossam-mohamed-abd/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=hossam-mohamed-abd&style=for-the-badge&color=blue" />
 </p>
+
 
 
 
