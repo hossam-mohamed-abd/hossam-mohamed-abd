@@ -102,7 +102,7 @@
 
 # 🔝 Top Contributed Repo  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hossam-mohamed-abd&style=flat-square&color=blue" />
+  <img src="https://visitcount.itsvg.in/api?id=hossam-mohamed-abd&label=Profile%20Views&color=12&icon=5&pretty=true" />
 </p>
 
 
