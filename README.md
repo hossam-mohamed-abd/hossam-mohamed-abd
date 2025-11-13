@@ -102,8 +102,9 @@
 
 # 🔝 Top Contributed Repo  
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=hossam-mohamed-abd&chart_type=bar&theme=radical"/>
+  <img src="https://komarev.com/ghpvc/?username=hossam-mohamed-abd&style=flat-square&color=blue" />
 </p>
+
 
 ---
 
