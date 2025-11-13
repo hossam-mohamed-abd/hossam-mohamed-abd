@@ -102,8 +102,9 @@
 
 # 🔝 Top Contributed Repo  
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=hossam-mohamed-abd&label=Profile%20Views&color=12&icon=5&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=hossam-mohamed-abd&label=Views&color=6&icon=1&pretty=true" />
 </p>
+
 
 
 ---
