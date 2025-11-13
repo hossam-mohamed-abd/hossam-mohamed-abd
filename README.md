@@ -105,6 +105,14 @@
   <img src="https://komarev.com/ghpvc/?username=hossam-mohamed-abd&style=for-the-badge&color=blue" />
 </p>
 
+#11111
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile%20Views-✔️%20Live-blueviolet?style=for-the-badge" />
+</p>
+#22222222222222
+<p align="center">
+  <img src="https://count.getloli.com/get/@hossam-mohamed-abd?theme=rule34" />
+</p>
 
 
 ---
